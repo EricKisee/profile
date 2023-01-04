@@ -1,0 +1,13 @@
+{
+    "name": "Profile",
+    "version": "1.0.0",
+    "description": "Profile Node.js Web App on Docker",
+    "author": "Eric Kisee <erickiseemulwa@gmail.com>",
+    "main": "server.js",
+    "scripts": {
+      "start": "node server.js"
+    },
+    "dependencies": {
+      "express": "^4.16.1"
+    }
+  }
